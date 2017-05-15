@@ -9,6 +9,7 @@
 
 `npm install morgan --save`
 
+- Run `node server.js`
 
 # Contributor
 
